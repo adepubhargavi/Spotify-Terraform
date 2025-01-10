@@ -1,0 +1,11 @@
+# Ignore Terraform state and cache directories
+.terraform/
+
+# Ignore environment files
+.env
+
+# Ignore Terraform variable definitions
+terraform.tfvars
+terraform.tfvars.json
+.terraform.lock.hcl
+
